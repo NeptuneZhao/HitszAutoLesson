@@ -125,11 +125,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Files\\Codes\\Visual Studio Sources\\HitszAutoLesson\\Hal-Windows\\Hal-Windows.csproj",
+      "projectUniqueName": "D:\\Repositories\\HitszAutoLesson\\Hal-Windows\\Hal-Windows.csproj",
       "projectName": "Hal-Windows",
-      "projectPath": "D:\\Files\\Codes\\Visual Studio Sources\\HitszAutoLesson\\Hal-Windows\\Hal-Windows.csproj",
+      "projectPath": "D:\\Repositories\\HitszAutoLesson\\Hal-Windows\\Hal-Windows.csproj",
       "packagesPath": "C:\\Users\\qq183\\.nuget\\packages\\",
-      "outputPath": "D:\\Files\\Codes\\Visual Studio Sources\\HitszAutoLesson\\Hal-Windows\\obj\\",
+      "outputPath": "D:\\Repositories\\HitszAutoLesson\\Hal-Windows\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -144,7 +144,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

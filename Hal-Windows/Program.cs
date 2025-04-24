@@ -22,11 +22,11 @@ namespace Hal_Windows
 				return;
 			}
 
-			// IdsLogin login = new("2023111656", Console.WriteLine);
-			// await login.Start("zhaochenrui233");
+			IdsLogin login = new("2023111656", Console.WriteLine);
+			await login.Start("zhaochenrui233");
 
 			using StreamReader reader = new(new FileStream("lessons.json", FileMode.Open));
-			new HitszKebiao(reader.ReadToEnd()).OnInitialize();
+			new HitszKebiao(reader.ReadToEnd(), null).OnInitialize();
 
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);

@@ -29,3 +29,20 @@ D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\net9.
 D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.genruntimeconfig.cache
 D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\ref\Hal-Windows.dll
 D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal_Windows.Form1.resources
+D:\Repositories\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.exe
+D:\Repositories\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.dll.config
+D:\Repositories\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.deps.json
+D:\Repositories\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.runtimeconfig.json
+D:\Repositories\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.dll
+D:\Repositories\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.pdb
+D:\Repositories\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal_Windows.Form1.resources
+D:\Repositories\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal_Windows.Properties.Resources.resources
+D:\Repositories\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.csproj.GenerateResource.cache
+D:\Repositories\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.csproj.CoreCompileInputs.cache
+D:\Repositories\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.sourcelink.json
+D:\Repositories\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.dll
+D:\Repositories\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\refint\Hal-Windows.dll
+D:\Repositories\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.pdb
+D:\Repositories\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.genruntimeconfig.cache
+D:\Repositories\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\ref\Hal-Windows.dll

@@ -2,11 +2,12 @@
 namespace Hal_Windows.HitIdsAuto
 {
 	using System;
-    using System.Collections.Generic;
-    using System.Net;
+	using System.Net;
 	using System.Net.Http;
 	using System.Security.Cryptography;
 	using System.Text;
+	using System.Text.Json;
+	using System.Text.Json.Serialization;
 	using System.Text.RegularExpressions;
 	using System.Threading;
 	using System.Threading.Tasks;
@@ -55,6 +56,9 @@ namespace Hal_Windows.HitIdsAuto
 			LogStatus("Ticket: OK");
 
 			SchoolCalendar Calendar = await GetCalendar();
+			byte[] saveCalendar = Encoding.UTF8.GetBytes(Calendar.ToString());
+
+			SchoolCalendar testCalendar = SchoolCalendar.GetInstance(Encoding.UTF8.GetString(saveCalendar));
 
 			HttpResponseMessage aacResponse = await OneClient.GetAsync("http://jw.hitsz.edu.cn/authentication/main");
 
@@ -233,18 +237,24 @@ namespace Hal_Windows.HitIdsAuto
 
 	internal class SchoolCalendar
 	{
-		public string Year;
-		public string Semester { get { return semester; } set { semester = ToSemesterIndex(value); } }
-		private string semester;
+		public static SchoolCalendar GetInstance(string savedCalendarJson)
+		{
+			return JsonSerializer.Deserialize<SchoolCalendar>(savedCalendarJson);
+		}
 
-		public string StartSemesterMonth, StartSemesterDay;
+		public string Year { get; set; }
+		public string Semester { get { return semester; } set { semester = ToSemesterIndex(value); } }
+		public string StartSemesterMonth { get; set; }
+		public string StartSemesterDay { get; set; }
+
+		private string semester;
 
 		private static string ToSemesterIndex(string semester) => semester switch
 		{
 			"春" => "2",
 			"夏" => "3",
 			"秋" => "1",
-			_ => throw new ArgumentException($"Unknown semester: {semester}")
+			_ => semester
 		};
 
 		public string GetSemesterChar() => Semester switch
@@ -254,6 +264,11 @@ namespace Hal_Windows.HitIdsAuto
 			"3" => "夏",
 			_ => throw new ArgumentException($"Unknown semester: {semester}")
 		};
+
+		public override string ToString()
+		{
+			return JsonSerializer.Serialize(this);
+		}
 	}
 
 	internal static class EncryptAES

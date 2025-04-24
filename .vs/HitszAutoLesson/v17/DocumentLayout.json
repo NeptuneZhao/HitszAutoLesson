@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Files\\Codes\\Visual Studio Sources\\HitszAutoLesson\\",
+  "WorkspaceRootPath": "D:\\Repositories\\HitszAutoLesson\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0148C10-A49F-472B-9B50-A02AB591CB75}|Hal-Windows\\Hal-Windows.csproj|d:\\files\\codes\\visual studio sources\\hitszautolesson\\hal-windows\\hitidsauto\\hitszkebiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0148C10-A49F-472B-9B50-A02AB591CB75}|Hal-Windows\\Hal-Windows.csproj|solutionrelative:hal-windows\\hitidsauto\\hitszkebiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0148C10-A49F-472B-9B50-A02AB591CB75}|Hal-Windows\\Hal-Windows.csproj|d:\\files\\codes\\visual studio sources\\hitszautolesson\\hal-windows\\hitidsauto\\hitidsauto-main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0148C10-A49F-472B-9B50-A02AB591CB75}|Hal-Windows\\Hal-Windows.csproj|d:\\repositories\\hitszautolesson\\hal-windows\\hitidsauto\\hitidsauto-main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0148C10-A49F-472B-9B50-A02AB591CB75}|Hal-Windows\\Hal-Windows.csproj|solutionrelative:hal-windows\\hitidsauto\\hitidsauto-main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0148C10-A49F-472B-9B50-A02AB591CB75}|Hal-Windows\\Hal-Windows.csproj|d:\\files\\codes\\visual studio sources\\hitszautolesson\\hal-windows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0148C10-A49F-472B-9B50-A02AB591CB75}|Hal-Windows\\Hal-Windows.csproj|d:\\repositories\\hitszautolesson\\hal-windows\\hitidsauto\\hitszkebiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0148C10-A49F-472B-9B50-A02AB591CB75}|Hal-Windows\\Hal-Windows.csproj|solutionrelative:hal-windows\\hitidsauto\\hitszkebiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0148C10-A49F-472B-9B50-A02AB591CB75}|Hal-Windows\\Hal-Windows.csproj|d:\\repositories\\hitszautolesson\\hal-windows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0148C10-A49F-472B-9B50-A02AB591CB75}|Hal-Windows\\Hal-Windows.csproj|solutionrelative:hal-windows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0148C10-A49F-472B-9B50-A02AB591CB75}|Hal-Windows\\Hal-Windows.csproj|D:\\Files\\Codes\\Visual Studio Sources\\HitszAutoLesson\\hal-windows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D0148C10-A49F-472B-9B50-A02AB591CB75}|Hal-Windows\\Hal-Windows.csproj|D:\\Repositories\\HitszAutoLesson\\hal-windows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0148C10-A49F-472B-9B50-A02AB591CB75}|Hal-Windows\\Hal-Windows.csproj|solutionrelative:hal-windows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,31 +26,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:664265294:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\Files\\Codes\\Visual Studio Sources\\HitszAutoLesson\\Hal-Windows\\Form1.cs",
+              "DocumentMoniker": "D:\\Repositories\\HitszAutoLesson\\Hal-Windows\\Form1.cs",
               "RelativeDocumentMoniker": "Hal-Windows\\Form1.cs",
-              "ToolTip": "D:\\Files\\Codes\\Visual Studio Sources\\HitszAutoLesson\\Hal-Windows\\Form1.cs [\u8BBE\u8BA1]",
+              "ToolTip": "D:\\Repositories\\HitszAutoLesson\\Hal-Windows\\Form1.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "Hal-Windows\\Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T11:12:43.118Z",
@@ -58,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HitIdsAuto-Main.cs",
-              "DocumentMoniker": "D:\\Files\\Codes\\Visual Studio Sources\\HitszAutoLesson\\Hal-Windows\\HitIdsAuto\\HitIdsAuto-Main.cs",
+              "DocumentMoniker": "D:\\Repositories\\HitszAutoLesson\\Hal-Windows\\HitIdsAuto\\HitIdsAuto-Main.cs",
               "RelativeDocumentMoniker": "Hal-Windows\\HitIdsAuto\\HitIdsAuto-Main.cs",
-              "ToolTip": "D:\\Files\\Codes\\Visual Studio Sources\\HitszAutoLesson\\Hal-Windows\\HitIdsAuto\\HitIdsAuto-Main.cs",
+              "ToolTip": "D:\\Repositories\\HitszAutoLesson\\Hal-Windows\\HitIdsAuto\\HitIdsAuto-Main.cs",
               "RelativeToolTip": "Hal-Windows\\HitIdsAuto\\HitIdsAuto-Main.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAB2PRQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABMBAAAAAAAAAAAMwA4BAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T06:58:06.157Z",
               "EditorCaption": ""
@@ -73,24 +69,24 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Files\\Codes\\Visual Studio Sources\\HitszAutoLesson\\Hal-Windows\\Program.cs",
+              "DocumentMoniker": "D:\\Repositories\\HitszAutoLesson\\Hal-Windows\\Program.cs",
               "RelativeDocumentMoniker": "Hal-Windows\\Program.cs",
-              "ToolTip": "D:\\Files\\Codes\\Visual Studio Sources\\HitszAutoLesson\\Hal-Windows\\Program.cs",
+              "ToolTip": "D:\\Repositories\\HitszAutoLesson\\Hal-Windows\\Program.cs",
               "RelativeToolTip": "Hal-Windows\\Program.cs",
-              "ViewState": "AgIAAAQAAAAQMzMzMzMwwBwAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T06:56:54.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HitszKebiao.cs",
-              "DocumentMoniker": "D:\\Files\\Codes\\Visual Studio Sources\\HitszAutoLesson\\Hal-Windows\\HitIdsAuto\\HitszKebiao.cs",
+              "DocumentMoniker": "D:\\Repositories\\HitszAutoLesson\\Hal-Windows\\HitIdsAuto\\HitszKebiao.cs",
               "RelativeDocumentMoniker": "Hal-Windows\\HitIdsAuto\\HitszKebiao.cs",
-              "ToolTip": "D:\\Files\\Codes\\Visual Studio Sources\\HitszAutoLesson\\Hal-Windows\\HitIdsAuto\\HitszKebiao.cs",
+              "ToolTip": "D:\\Repositories\\HitszAutoLesson\\Hal-Windows\\HitIdsAuto\\HitszKebiao.cs",
               "RelativeToolTip": "Hal-Windows\\HitIdsAuto\\HitszKebiao.cs",
-              "ViewState": "AgIAAHUAAAAAPmZmZqY/wD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAywBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T06:38:23.988Z",
               "EditorCaption": ""
