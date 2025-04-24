@@ -1,0 +1,31 @@
+C:\Users\qq183\Desktop\Codes\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.exe
+C:\Users\qq183\Desktop\Codes\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.dll.config
+C:\Users\qq183\Desktop\Codes\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.deps.json
+C:\Users\qq183\Desktop\Codes\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.runtimeconfig.json
+C:\Users\qq183\Desktop\Codes\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.dll
+C:\Users\qq183\Desktop\Codes\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.pdb
+C:\Users\qq183\Desktop\Codes\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal_Windows.Properties.Resources.resources
+C:\Users\qq183\Desktop\Codes\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.csproj.GenerateResource.cache
+C:\Users\qq183\Desktop\Codes\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qq183\Desktop\Codes\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.csproj.CoreCompileInputs.cache
+C:\Users\qq183\Desktop\Codes\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.dll
+C:\Users\qq183\Desktop\Codes\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\refint\Hal-Windows.dll
+C:\Users\qq183\Desktop\Codes\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.pdb
+C:\Users\qq183\Desktop\Codes\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.genruntimeconfig.cache
+C:\Users\qq183\Desktop\Codes\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\ref\Hal-Windows.dll
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.exe
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.dll.config
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.deps.json
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.runtimeconfig.json
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.dll
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\bin\Debug\net9.0-windows\Hal-Windows.pdb
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal_Windows.Properties.Resources.resources
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.csproj.GenerateResource.cache
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.csproj.CoreCompileInputs.cache
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.dll
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\refint\Hal-Windows.dll
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.pdb
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal-Windows.genruntimeconfig.cache
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\ref\Hal-Windows.dll
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\net9.0-windows\Hal_Windows.Form1.resources

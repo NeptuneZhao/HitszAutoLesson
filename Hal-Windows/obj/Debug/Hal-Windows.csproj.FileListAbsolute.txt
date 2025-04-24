@@ -1,0 +1,9 @@
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\bin\Debug\Hal-Windows.exe.config
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\bin\Debug\Hal-Windows.exe
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\bin\Debug\Hal-Windows.pdb
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\Hal-Windows.csproj.AssemblyReference.cache
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\Hal_Windows.Properties.Resources.resources
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\Hal-Windows.csproj.GenerateResource.cache
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\Hal-Windows.csproj.CoreCompileInputs.cache
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\Hal-Windows.exe
+D:\Files\Codes\Visual Studio Sources\HitszAutoLesson\Hal-Windows\obj\Debug\Hal-Windows.pdb

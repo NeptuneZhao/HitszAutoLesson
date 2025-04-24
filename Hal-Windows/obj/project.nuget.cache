@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Cn8mivzQ6Q=",
+  "success": true,
+  "projectFilePath": "D:\\Files\\Codes\\Visual Studio Sources\\HitszAutoLesson\\Hal-Windows\\Hal-Windows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qq183\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\qq183\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
